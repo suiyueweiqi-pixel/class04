@@ -8,7 +8,7 @@ const keyframes = {
 };
 const keyframesOut = {
     opacity: [1,0],
-    translate: [0,"-150px -150px"]
+    translate: ["150px 150px","0px 0px"]
 };
 
 const option = {
