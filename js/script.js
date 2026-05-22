@@ -4,7 +4,7 @@ const fobtn = document.getElementById("FoBtn")
 
 const keyframes = {
     opacity: [0, 1],
-    translate: [0,"150px 150px"]
+    translate: ["0px 0px","150px 150px"]
 };
 const keyframesOut = {
     opacity: [1,0],
